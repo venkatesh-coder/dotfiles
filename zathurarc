@@ -1,0 +1,11 @@
+map u scroll half-up
+map d scroll half-down
+map D toggle_page_mode
+map r reload
+map R rotate
+map = zoom in
+map K scroll half-up
+map J scroll half-down
+map i recolor
+set selection-clipboard clipboard
+set font "Iosevka Fixed Curly 15"
